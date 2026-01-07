@@ -1,0 +1,17 @@
+2025-10-28 09:44:52,375 - DEBUG - Start of program
+2025-10-28 09:45:02,498 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,498 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,498 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,498 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,498 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,498 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,498 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - collatz() successfully called
+2025-10-28 09:45:02,499 - DEBUG - Program end.
